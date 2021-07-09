@@ -18,7 +18,7 @@ public class T1Ej5Adiv {
 
         int contador = 0;
         do{
-        var sc = new Scanner (System.in);
+        Scanner sc = new Scanner (System.in);
         System.out.println("Cual es el número escondido? ");
         Integer usuario = sc.nextInt();
         // System.out.println(usuario>numero ? "El número que busca es menor": "El número que busca es mayor");

@@ -8,10 +8,10 @@ import java.util.Scanner;
 
 public class U1Ej4Temp {
     public static void main(String[] args) {
-        var sc = new Scanner (System.in);
+        Scanner sc = new Scanner (System.in);
         System.out.println("Introduce la temperatura en °C: ");
         float temperatura = sc.nextFloat();
-        var resultado = 32 + ((9* temperatura)/5);  
+        float resultado = 32 + ((9* temperatura)/5);  
         System.out.println( temperatura + " °C: "+ "corresponde a " + resultado + " °F");
         System.out.println("Opción 2 ejecutando en una línea");
         System.out.println( temperatura + " °C: "+ "corresponde a " + (32 + ((9* temperatura)/5)) + " °F");

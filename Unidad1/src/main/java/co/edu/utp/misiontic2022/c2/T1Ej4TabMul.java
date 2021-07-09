@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class T1Ej4TabMul {
     public static void main (String[] args) {
-        var a = new Scanner (System.in);
+        Scanner a = new Scanner (System.in);
         System.out.println("Introduce un número: ");
         float numero = a.nextFloat();
         a.close();

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch T1Ej1Oper1",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.T1Ej1Oper1",
+            "projectName": "unidad1"
+        },
+        {
+            "type": "java",
+            "name": "Launch HolaQuien",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.HolaQuien",
+            "projectName": "unidad1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grupo18U1a",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Grupo18U1a",
+            "projectName": "unidad1"
+        },
+        {
+            "type": "java",
             "name": "Launch Grupo18U1",
             "request": "launch",
             "mainClass": "co.edu.utp.misiontic2022.c2.Grupo18U1",

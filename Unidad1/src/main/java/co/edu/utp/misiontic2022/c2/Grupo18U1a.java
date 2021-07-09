@@ -10,14 +10,14 @@ public class Grupo18U1a {
         System.out.println(numerosuerte2("17/11/2013"));        
         }
         public static int numerosuerte2 (String fechanacimiento) {  //fecha dd/mm/yyyy
-            var indiceSeparador = fechanacimiento.indexOf('/');
-            var dia1 = Integer.parseInt(fechanacimiento.substring(0, indiceSeparador));
-            var indiceSeparadormes = fechanacimiento.indexOf('/', ++indiceSeparador);
-            var mes1 = Integer.parseInt(fechanacimiento.substring(indiceSeparador, indiceSeparadormes++)); 
-            var año1 = Integer.parseInt(fechanacimiento.substring(indiceSeparadormes));
+            int indiceSeparador = fechanacimiento.indexOf('/');
+            int dia1 = Integer.parseInt(fechanacimiento.substring(0, indiceSeparador));
+            int indiceSeparadormes = fechanacimiento.indexOf('/', ++indiceSeparador);
+            int mes1 = Integer.parseInt(fechanacimiento.substring(indiceSeparador, indiceSeparadormes++)); 
+            int año1 = Integer.parseInt(fechanacimiento.substring(indiceSeparadormes));
             
-            var suma = dia1 + mes1 + año1;
-            var resultado = 0;
+            int suma = dia1 + mes1 + año1;
+            int resultado = 0;
             //recorriendo digitos          
             while(suma !=0 ){
             resultado += suma % 10;

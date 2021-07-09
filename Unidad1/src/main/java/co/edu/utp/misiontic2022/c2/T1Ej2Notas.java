@@ -31,7 +31,7 @@ public class T1Ej2Notas {
         System.out.println("Ingrese nota 3: ");
         float nota3 = d.nextFloat();
 
-        var promedio = Math.floor((nota1+nota2+nota3)/3);
+        double promedio = Math.floor((nota1+nota2+nota3)/3);
        
         System.out.println(estudiante + " obtuvo un promedio de " + promedio + " y su estado es" + (promedio >=3.0? " Aprobado " : " Reprobado "));
         

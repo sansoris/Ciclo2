@@ -6,18 +6,18 @@ import java.util.Scanner;
 
 public class T1Ej1Oper1 {
     public static void main (String[] args) {
-        var a = new Scanner (System.in);
+        Scanner a = new Scanner (System.in);
         System.out.println("Introduce un número: ");
         float numero1 = a.nextFloat();
 
-        var b = new Scanner (System.in);
+        Scanner b = new Scanner (System.in);
         System.out.println("Introduce segundo número: ");
         float numero2 = b.nextFloat(); 
 
-        var resultado = numero1 + numero2; 
-        var resultado1 = numero1 - numero2; 
-        var resultado2 = numero1 * numero2;
-        var resultado3 = numero1 / numero2; 
+        float resultado = numero1 + numero2; 
+        float resultado1 = numero1 - numero2; 
+        float resultado2 = numero1 * numero2;
+        float resultado3 = numero1 / numero2; 
          
         System.out.println("El proceso de suma es: "+ resultado);
         System.out.println("El proceso de resta es: "+ resultado1);

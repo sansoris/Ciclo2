@@ -11,11 +11,11 @@ public static void main(String[] args){
 
     public static void divisa() {
         
-        var c = new Scanner (System.in);
+        Scanner c = new Scanner (System.in);
         System.out.println("Cuál moneda deseas cambiar? PESOS o DOLARES");
         String cambio = c.nextLine();
 
-        var sc = new Scanner (System.in);
+        Scanner sc = new Scanner (System.in);
         System.out.println("Por favor escribe el monto ");
         Float moneda = sc.nextFloat();
 

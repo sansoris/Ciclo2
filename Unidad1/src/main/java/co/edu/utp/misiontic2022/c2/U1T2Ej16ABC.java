@@ -8,9 +8,9 @@ public class U1T2Ej16ABC {
     System.out.println("----Con while-----");
     
 
-    var conta = 2;
+    int conta = 2;
     do {
-        var car1 = 'Z';
+        char car1 = 'Z';
         while (car1 >='A'){
         System.out.print(car1);
         car1--;

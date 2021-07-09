@@ -5,15 +5,15 @@ import java.util.Scanner;
 
 public class T1Ej1Oper2 {
     public static void main (String[] args) {
-        var a = new Scanner (System.in);
+        Scanner a = new Scanner (System.in);
         System.out.println("Introduce un número: ");
         float numero1 = a.nextFloat();
 
-        var b = new Scanner (System.in);
+        Scanner b = new Scanner (System.in);
         System.out.println("Introduce segundo número: ");
         float numero2 = b.nextFloat(); 
 
-        var teclado = new Scanner(System.in);
+        Scanner teclado = new Scanner(System.in);
         System.out.print( "Introduzca la operacion a realizar\n 1 para (+)\n, 2 para (-)\n, 3 para (*)\n, 4 para (/): " );
         int operacionSeleccionada = teclado.nextInt();
 

@@ -10,11 +10,11 @@ import java.util.Scanner;
 
 public class T1Ej6Peso {
     public static void main(String[] args) {
-        var a = new Scanner (System.in);
+        Scanner a = new Scanner (System.in);
         System.out.println("Introduce el sexo: ");
         String sexo = a.nextLine();
 
-        var b = new Scanner (System.in);
+        Scanner b = new Scanner (System.in);
         System.out.println("Introduce la altura en cm: ");
         float altura = b.nextFloat(); 
         
