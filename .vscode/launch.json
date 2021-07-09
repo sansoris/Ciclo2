@@ -1,0 +1,371 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej17Contador",
+            "request": "launch",
+            "mainClass": "U1T2Ej17Contador",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej15Factorial",
+            "request": "launch",
+            "mainClass": "U1T2Ej15Factorial",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2E15Factorial",
+            "request": "launch",
+            "mainClass": "U1T2E15Factorial",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej12Multiplo3",
+            "request": "launch",
+            "mainClass": "U1T2Ej12Multiplo3",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej13Dolares",
+            "request": "launch",
+            "mainClass": "U1T2Ej13Dolares",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej16ABCb",
+            "request": "launch",
+            "mainClass": "U1T2Ej16ABCb",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej8Division",
+            "request": "launch",
+            "mainClass": "U1T2Ej8Division",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch UdeA",
+            "request": "launch",
+            "mainClass": "Otros.src.UdeA",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej16ABC",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej16ABC",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grupo18U1a",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Grupo18U1a",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grupo18U1",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Grupo18U1",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Unidad1.src.App",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cadenas",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Cadenas",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch CicloFor",
+            "request": "launch",
+            "mainClass": "Unidad1.src.CicloFor",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch CicloWhite",
+            "request": "launch",
+            "mainClass": "Unidad1.src.CicloWhite",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Condicionales",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Condicionales",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datos",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Datos",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch HolaQuien",
+            "request": "launch",
+            "mainClass": "Unidad1.src.HolaQuien",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Operadores",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prueba",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Prueba",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej10Fibo",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej10Fibo",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej1Oper1",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej1Oper1",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej1Oper2",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej1Oper2",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej2Notas",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej2Notas",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej2Notas2",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej2Notas2",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej3Sueldo",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej3Sueldo",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej4TabMul",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej4TabMul",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej5Adiv",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej5Adiv",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej6Peso",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej6Peso",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej7Primo",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej7Primo",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej8JuegoPPT",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej8JuegoPPT",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej8JuegoPPT2",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej8JuegoPPT2",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch T1Ej9NES",
+            "request": "launch",
+            "mainClass": "Unidad1.src.T1Ej9NES",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Temporal",
+            "request": "launch",
+            "mainClass": "Unidad1.src.Temporal",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1Ej1Saludo",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1Ej1Saludo",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1Ej2Cifras",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1Ej2Cifras",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1Ej3DobleTriple",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1Ej3DobleTriple",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1Ej4Temp",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1Ej4Temp",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1Ej5Par",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1Ej5Par",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej12Multiplo3",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej12Multiplo3",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej1Suerte",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej1Suerte",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej2Iva",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej2Iva",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej3ValNM",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej3ValNM",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej4Velocidad",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej4Velocidad",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej5Triangulo",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej5Triangulo",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej6Multiplo",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej6Multiplo",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej7Mayus",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej7Mayus",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej8Division",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej8Division",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch U1T2Ej9Mayor",
+            "request": "launch",
+            "mainClass": "Unidad1.src.U1T2Ej9Mayor",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Instancias",
+            "request": "launch",
+            "mainClass": "Unidad2.src.Instancias",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrivateSet",
+            "request": "launch",
+            "mainClass": "Unidad2.src.PrivateSet",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        }
+    ]
+}
