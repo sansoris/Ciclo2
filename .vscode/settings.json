@@ -1,7 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Unidad2/src",
         "Unidad1/src",
-        "Unidad2/src"
+        "Tutoria/src",
+        "Ciclo2Unidad1/src",
+        "Unidad2"
     ],
     "java.configuration.updateBuildConfiguration": "automatic"
 }
