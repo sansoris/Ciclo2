@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Unidad1/src"
-    ]
+        "Unidad1/src",
+        "Unidad2/src"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
 }

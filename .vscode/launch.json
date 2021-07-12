@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Grupo18poo",
+            "request": "launch",
+            "mainClass": "Grupo18poo",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
             "name": "Launch T1Ej1Oper1",
             "request": "launch",
             "mainClass": "co.edu.utp.misiontic2022.c2.T1Ej1Oper1",
