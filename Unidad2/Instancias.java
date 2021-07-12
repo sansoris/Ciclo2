@@ -1,3 +1,4 @@
+
 public class Instancias {
         // Instancia a la clase circuloA
         // 1 nombre de la clase
@@ -40,5 +41,18 @@ CirculoB circulo4 = new CirculoB (10f);
 System.out.println(circulo4.area());
 Cuadrado cuadrado1 = new Cuadrado(5f);
 System.out.println(cuadrado1.area());
+
+// INSTANCIA DE LA INTERFACE
+
+System.out.println("----------------------INTERFACE---------------------------"); 
+Interface3 perro = new Interface3();
+perro.caza();
+perro.pasea();
+
+
 }
+
+
+
+
 }

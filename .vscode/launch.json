@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Instancias",
+            "request": "launch",
+            "mainClass": "Instancias",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
             "name": "Launch CicloFor",
             "request": "launch",
             "mainClass": "CicloFor",
