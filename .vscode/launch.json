@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Launch App",
             "request": "launch",
+            "mainClass": "principal.App",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.sansoris.Principal",
+            "projectName": "retos"
+        },
+        {
+            "type": "java",
+            "name": "Launch Colecciones",
+            "request": "launch",
+            "mainClass": "Colecciones",
+            "projectName": "Ejercicios_Java_f7bc7037"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
             "mainClass": "App",
             "projectName": "Ejercicios_Java_f7bc7037"
         },

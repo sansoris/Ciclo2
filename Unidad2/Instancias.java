@@ -50,6 +50,10 @@ perro.caza();
 perro.pasea();
 
 
+//  CONTENEDORES
+
+System.out.println("----------------------CONTENEDORES---------------------------"); 
+
 }
 
 

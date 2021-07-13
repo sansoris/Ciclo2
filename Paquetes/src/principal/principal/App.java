@@ -1,6 +1,6 @@
-package principal;
+package Paquetes; 
 
-import utilidades.Operaciones; 
+import utilidades.Operaciones;
 
 public class App {
 
