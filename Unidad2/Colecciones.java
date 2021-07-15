@@ -13,11 +13,11 @@ public class Colecciones {
     // Map  Llave, valor
     // se manejan como objetos
 
-public static void main(String[] args) {
-    // manejoListas();
-    // manejoConjuntos();
-    manejoMapas();
-}
+// public static void main(String[] args) {
+//     // manejoListas();
+//     // manejoConjuntos();
+//     manejoMapas();
+// }
 // 
 // private static void manejoListas(){
 //     List <Object> listaBasica = new ArrayList<>();
@@ -72,16 +72,17 @@ public static void main(String[] args) {
 // }
 
 private static void manejoMapas(){
-    var mapa = new HashMap<String>();
-    ((Object) mapa).put("Jennifer", 2);
+    Object mapa = new HashMap<String>();
+    mapa.put("Jennifer", 2);
     System.out.println(mapa);
 
     String key;
     String value;
-    ((Object) mapa).forEach(key, value) 
+    ((Object) mapa).forEach(key, value); 
     System.out.println(key + "-" + value);
     ((Object) mapa).remove("Jennifer"); //para retirar el elemento
 }
+
 
 }
 

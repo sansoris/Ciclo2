@@ -3,7 +3,8 @@
         "Unidad2",
         "Unidad1/src",
         "Tutoria/src",
-        "Paquetes/src/principal"
+        "Paquetes/src/principal",
+        "Retos/src"
     ],
     "java.configuration.updateBuildConfiguration": "automatic"
 }

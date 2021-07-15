@@ -1,6 +1,4 @@
-package co.edu.utp.misiontic2022.c2.sansoris;
 import java.util.Scanner;
-
 
 public class Nuevainversion {
     // Atributos
