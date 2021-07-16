@@ -1,7 +1,6 @@
-package Paquetes;
+package principal;
 
 public class Operaciones {
-
     private double num1;
     private double num2;
     
@@ -22,3 +21,4 @@ public class Operaciones {
 
     
 }
+

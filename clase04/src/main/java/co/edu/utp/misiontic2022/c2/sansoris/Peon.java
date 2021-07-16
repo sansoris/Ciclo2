@@ -1,6 +1,11 @@
 package co.edu.utp.misiontic2022.c2.sansoris;
 
 public class Peon {
+
+
+    
+
+
     public Boolean comer(){
         return true;
     }
@@ -8,6 +13,7 @@ public class Peon {
         return true;
     }
     public Boolean mover(){
+        
         return true;
     }
 }

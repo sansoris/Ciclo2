@@ -17,7 +17,6 @@ public class Casilla {
 // this.color = fila%%2 ==0
 // ? (columna%2==0?"blanco": "negro") 
 // : (columna%2!= 0 ? "blanco": "negro");
- 
     }
 
     private String calcularColor(){
@@ -27,10 +26,45 @@ public class Casilla {
             } return "negro";
             } 
 
+    //  Metodos
 
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public Integer getFila() {
+        return fila;
+    }
+
+    public void setFila(Integer fila) {
+        this.fila = fila;
+    }
+
+    public Integer getColumna() {
+        return columna;
+    }
+
+    public void setColumna(Integer columna) {
+        this.columna = columna;
+    }
+
+    public Ficha getFicha() {
+        return ficha;
+    }
+
+    public void setFicha(Ficha ficha) {
+        this.ficha = ficha;
+    }
+
+
+// Funciones
 
     public Boolean estaOcupada(){
-        return ficha != null;
+        return this.ficha != null;
     }
 
     public Boolean esContrincante (String color){
