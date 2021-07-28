@@ -1,9 +1,12 @@
 package co.edu.utp.misiontic2022.c2.sansoris;
 
 import java.io.IOException;
+import java.util.Scanner;
+import java.io.File;
+import java.io.FileWriter;
 
 // import jdk.internal.module.SystemModuleFinders;
-import co.edu.utp.misiontic2022.c2.sansoris.Ejercicios.Ejercicio1;
+// import co.edu.utp.misiontic2022.c2.sansoris.Ejercicios.Ejercicio1;
 
 /**
  * Hello world!
@@ -38,9 +41,42 @@ public class App
 
     // Ejercicio 1
 
-    Ejercicio1.ejecutar();
+    // Ejercicio1.ejecutar();
+
+   
+    //Clase Grupo 65 
+        // se deben usar las excepciones teniendo
+        // que se maneja información externa
+        // para disminuir errores en tiempos de ejecución
+
+        try {
+            // Lectura de datos (entrada)
+            File archivo1 = new File("Numeros.txt");
+            Scanner sc = new Scanner(archivo1);
+            while(sc.hasNextLine()){ // lee linea a linea y termina al finalizar las lineas
+            String linea = sc.nextLine();
+            System.out.println(linea);
+            }
+            sc.close();
 
 
+            // salida de datos 
+            // crear un array tipo string
+
+            String datos[] = {"Medellín", "Cali", "Barranquilla", "Bogotá", "Bucaramanga", "Leticia"};// separados por coma entre llaves
+            FileWriter archivo2 = new FileWriter("Ciudades.txt");
+            for (String i : datos) {
+                archivo2.write(i+"\n");// con salto de linea en cada elemento de datos
+            }
+            archivo2.close();  // cerrar el archivo para culminar el recurso
+
+        } catch (Exception e) {
+            System.out.println("No se pudo leer el archivo");
+            System.out.println(e.getMessage()); // al cambiar el nombre al archivo
+        }
+        
 
     }
 }
+
+
